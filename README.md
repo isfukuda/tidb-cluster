@@ -1,5 +1,9 @@
 # TiDB culuster docker-compose
 
+## Before begin this
+* check selinux
+* disable selinux :-)
+
 ## Requirements
 
 * Docker >= 18.00
